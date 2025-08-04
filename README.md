@@ -6,3 +6,7 @@ If you don't want to download and install, you can just play here:
 <button><a href="https://ethoshunt.vercel.app/" target="_blank">Click here to
 play!</a></button>
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=600px height=400px src="https://i.ibb.co/L6tVSKJ/menu.png" alt="Menu"></a>
+</p>
